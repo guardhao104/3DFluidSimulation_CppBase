@@ -1,0 +1,7 @@
+build/
+
+resources/
+!resources/skybox
+!resources/SlabWhite
+
+
